@@ -1,23 +1,16 @@
+# Handwriting to Text
 
-# Handwriting to text
-
-Submission for General Championship 2024 by team 65
-
-Using gyroscope and accelerometer mounted on a pen to derive data and predict individual alphabets written by the user using various machine learning techniques.
+A device that can convert Handwriting to the text by using the nano 33 BLE sense.
 
 
 
-## Authors
 
-- [@adipuli2004](https://github.com/adipuli2004)
-- [@shambabanerjee3](https://github.com/shambabanerjee3)
-## Features
- - Preprocessing of gyro and acceleration data to create serialised stacks for each letter
- - encoding and decoding letter data
- - making and training a custom deep learning model 
-## Libraries Used
+## Device used 
+- Arduino nano 33 BLE sense
+- USB cable 
 
-- Numpy
-- Pandas
-- Scikit learn
-- Tensor FLow
+## Environment used 
+- Google Colab
+- Arduino IDE 
+- Pycharm
+- Jupiter Notebook
