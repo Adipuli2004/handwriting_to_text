@@ -15,7 +15,7 @@ A device that can convert Handwriting to the text by using the nano 33 BLE sense
 - Pycharm
 - Jupiter Notebook
 
-## contributors
+## Contributors
 - Shamba Banerjee
 - Aditya Anil
 - Nibesh Sahu
